@@ -15,6 +15,7 @@ original sheet of paper in GIMP, saving each letter
 and 'functioning next day' constraints, may be a while)
 - 'Handwritten' script
 - Various Blender functions in the form of an addon for sigil generation
+- Most importantly: complete the alphabet.
 
 
 
