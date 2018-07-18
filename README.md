@@ -10,12 +10,12 @@ original sheet of paper in GIMP, saving each letter
 
 # To-do
 - Pronounciation
-
 - Lower-case letters
-
+(these will both require psychedelic experiences, and due to time
+and 'functioning next day' constraints, may be a while)
 - 'Handwritten' script
+- Various Blender functions in the form of an addon for sigil generation
 
-- Various Blender functions in the form of an addon.
 
 
 
